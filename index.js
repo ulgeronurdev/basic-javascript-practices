@@ -8,7 +8,7 @@ const pi = 3.14159;
 	3. Hesaplanan alanı döndürecek
 */
 
-// Örneğin çözümü:
+// Örneğin çözümü: 
 function kareninAlani(kenaruzunlugu) {
   return kenaruzunlugu * kenaruzunlugu;
 }
@@ -134,7 +134,7 @@ let ucetambolunenler,
 				tekrarEdenler[sayi]++;
 			} else {
 				tekrarEdenler[sayi] = 1;
-			}
+			} 
 		});
 
 		tekraredensayilar = [];
